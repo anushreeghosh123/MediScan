@@ -8,7 +8,7 @@ MediScan is a project developing an AI system utilizing the VGG16 CNN model to a
 
 Easily acces it by :http://192.168.0.110:8501/
 
-Download the given dataset in the repository to use this AI powered project. 
+Download the given dataset in the repository to use this AI powered project. This dataset contains some of the pre-processed images from the dataset on which the model has been trained .
 
 How it works :-
 
