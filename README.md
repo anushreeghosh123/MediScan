@@ -12,7 +12,9 @@ Download the given dataset in the repository to use this AI powered project. Thi
 
 How it works :-
 
-![image](https://github.com/user-attachments/assets/71521caa-a698-42b1-bf1d-d0f1e7403dac)
+![image](https://github.com/user-attachments/assets/6122021e-383b-4bca-8b4a-87706a4171a2)
+
+This image indicates that the uploaded image is of normal eye and as it has no disease so lots of balloon are floated.
 
 
 Happy Learning !!!
