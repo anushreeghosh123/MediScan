@@ -1,5 +1,6 @@
  # MediScan 
 AI-Powered Medical Image Analysis for Ocular Disease Diagnosis with Remedy Suggestion
+
 ![image](https://github.com/user-attachments/assets/e040efe6-4ec0-4fad-b837-e61e4ea884c2)
 
 
@@ -8,5 +9,10 @@ MediScan is a project developing an AI system utilizing the VGG16 CNN model to a
 Easily acces it by :http://192.168.0.110:8501/
 
 Download the given dataset in the repository to use this AI powered project. 
+
+How it works :-
+
+![image](https://github.com/user-attachments/assets/71521caa-a698-42b1-bf1d-d0f1e7403dac)
+
 
 Happy Learning !!!
